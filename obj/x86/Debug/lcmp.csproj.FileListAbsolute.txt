@@ -1,0 +1,5 @@
+C:\Users\Kacper\documents\visual studio 2010\Projects\lcmp\lcmp\bin\Debug\lcmp.exe
+C:\Users\Kacper\documents\visual studio 2010\Projects\lcmp\lcmp\bin\Debug\lcmp.pdb
+C:\Users\Kacper\documents\visual studio 2010\Projects\lcmp\lcmp\obj\x86\Debug\lcmp.exe
+C:\Users\Kacper\documents\visual studio 2010\Projects\lcmp\lcmp\obj\x86\Debug\lcmp.pdb
+C:\Users\Kacper\documents\visual studio 2010\Projects\lcmp\lcmp\obj\x86\Debug\lcmp.csprojResolveAssemblyReference.cache
